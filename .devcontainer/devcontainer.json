@@ -2,7 +2,7 @@
   "image": "owenardenucsc/cse210a:8.19",
   "customizations": {
     "vscode": {
-      "extensions": ["maximedenes.vscoq"],
+      "extensions": ["maximedenes.vscoq@2.2.3"],
       "settings": {
         "coqtop.binPath" : "/home/coq/.opam/default/bin",
         "files.exclude": {
